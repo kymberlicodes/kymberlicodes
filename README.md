@@ -2,11 +2,13 @@
 # Software Engineer, Women Who Code DFW Evangelist, Corgi Wrangler
 
 ## Find me on the Internet:
-Instagram: https://www.instagram.com/kymberlicodes/
-LinkedIn: https://www.linkedin.com/in/kymberlicodes/
-Pinterest: http://pinterest.com/kymberlicodes
-Twitch: http://twitch.com/kymberlicodes
-Twitter: https://twitter.com/kymberlicodes
+<ul>
+  <li>Instagram: https://www.instagram.com/kymberlicodes/</li>
+  <li>LinkedIn: https://www.linkedin.com/in/kymberlicodes/</li>
+  <li>Pinterest: http://pinterest.com/kymberlicodes</li>
+  <li>Twitch: http://twitch.com/kymberlicodes</li>
+  <li>Twitter: https://twitter.com/kymberlicodes</li>
+</ul>
 
 <!--
 **kymberlicodes/kymberlicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
