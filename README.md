@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there, my name is Kymberli. 👋
+# Software Engineer, Women Who Code DFW Evangelist, Corgi Wrangler
+
+## Find me on the Internet:
+Instagram: https://www.instagram.com/kymberlicodes/
+LinkedIn: https://www.linkedin.com/in/kymberlicodes/
+Pinterest: http://pinterest.com/kymberlicodes
+Twitch: http://twitch.com/kymberlicodes
+Twitter: https://twitter.com/kymberlicodes
 
 <!--
 **kymberlicodes/kymberlicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
