@@ -1,5 +1,5 @@
 ### Hello there, my name is Kymberli. 👋
-# Software Engineer, Women Who Code DFW Evangelist, Corgi Wrangler
+# Software Engineer, Corgi Wrangler
 
 ## Find me on the Internet:
 <ul>
