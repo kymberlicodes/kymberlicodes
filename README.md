@@ -1,5 +1,5 @@
 ### Hello there, my name is Kymberli. 👋
-# Software Engineer, Corgi Wrangler
+# Software Engineer, Corgi Wrangler, Maker
 
 ## Find me on the Internet:
 <ul>
