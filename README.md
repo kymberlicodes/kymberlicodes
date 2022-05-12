@@ -1,6 +1,6 @@
-## Hello there, my name is Kymberli. 👋
+# Hello there, my name is Kymberli. 👋
 #### AKA: Kimberly, Kim
-# Software Engineer, Corgi Wrangler, Maker
+## Software Engineer, Corgi Wrangler, Maker
 
 ## Find me on the Internet:
 <ul>
